@@ -1,8 +1,8 @@
-[![Latest Version](https://pypip.in/version/itemizer/badge.svg)](https://pypi.python.org/pypi/itemizer/)
-[![Downloads](https://pypip.in/download/itemizer/badge.svg)](https://pypi.python.org/pypi/itemizer/)
-[![Supported Python versions](https://pypip.in/py_versions/itemizer/badge.svg)](https://pypi.python.org/pypi/itemizer/)
-[![Development Status](https://pypip.in/status/itemizer/badge.svg)](https://pypi.python.org/pypi/itemizer/)
-[![License](https://pypip.in/license/itemizer/badge.svg)](https://pypi.python.org/pypi/itemizer/)
+[![Latest Version](https://img.shields.io/pypi/v/itemizer.svg)](https://pypi.python.org/pypi/itemizer/)
+[![Downloads](https://img.shields.io/pypi/dm/itemizer.svg)](https://pypi.python.org/pypi/itemizer/)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/itemizer.svg)](https://pypi.python.org/pypi/itemizer/)
+[![Development Status](https://img.shields.io/pypi/status/itemizer.svg)](https://pypi.python.org/pypi/itemizer/)
+[![License](https://img.shields.io/pypi/l/itemizer.svg)](https://pypi.python.org/pypi/itemizer/)
 
 
 itemizer
